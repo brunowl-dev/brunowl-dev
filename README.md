@@ -4,7 +4,7 @@
 - 🌱 Estou aprendendo C, mas planejo estudar outras linguagens, de primeira focado no desenvolvimento web, como PHP, JS, etc.
 - 📫 Email: brunoantoniowl@gmail.com
 
-![Wai Lu's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunowl-dev&show_icons=true&theme=default)
+![Wai Lu's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunowl-dev&show_icons=true&theme=transpaent)
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="WaiLu-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
