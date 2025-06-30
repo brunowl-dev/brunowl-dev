@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia desde que mexi em um computador aos 9 anos, já mo
 Atualmente estou estudando Python pelo curso da DIO, porém estudei lógica de programação com a linguagem C na faculdade.
 
 ### 🇬🇧🇺🇸
-Hi! My name is Bruno, I'm 20 years old and an IT student.
+Hi! My name is Bruno, I'm 20 years old and an IT student in the third semester of college, in my hometown, Santos!
 
 I've fallen in love with technology since I first touched a computer when I was nine. Besides technology and computer-related stuff, I really enjoy playing games, and I'm very into music, mainly rap, but I like other genres such as samba, rock, pagode and others.
 
