@@ -5,14 +5,14 @@
 
 ## 👨‍💻 Sobre mim/About me 
 ### 🇧🇷
-Olá! Me chamo Bruno e tenho 20 anos, atualmente estou cursando o terceiro semestre de análise e desenvolvimento de sistemas pela FATEC, na minha cidade Santos!
+Olá! Me chamo Bruno e tenho 21 anos, atualmente estou cursando o terceiro semestre de análise e desenvolvimento de sistemas pela FATEC, na minha cidade Santos!
 
 Sou apaixonado por tecnologia desde que mexi em um computador aos 9 anos, já mostrando que essa seria minha área profissional. Além de tecnologia, gosto muito de jogos e de música, principalmente rap, mas sou bem eclético, gosto de samba, rock, pagode, etc.
 
 Atualmente estou estudando Python pelo curso da DIO, porém estudei lógica de programação com a linguagem C na faculdade.
 
 ### 🇬🇧🇺🇸
-Hi! My name is Bruno, I'm 20 years old and an IT student in the third semester of college, in my hometown, Santos!
+Hi! My name is Bruno, I'm 21 years old and an IT student in the third semester of college, in my hometown, Santos!
 
 I've fallen in love with technology since I first touched a computer when I was nine. Besides technology and computer-related stuff, I really enjoy playing games, and I'm very into music, mainly rap, but I like other genres such as samba, rock, pagode and others.
 
