@@ -1,36 +1,70 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Bruno%20Wai%20Lu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Systems%20Analysis%20and%20Development%20student&descSize=18&descAlignY=55&textBg=false"/>
 
-# 🌌🎓 Bruno Wai Lu 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=brunowl-dev">
+    <img src="https://komarev.com/ghpvc/?username=brunowl-dev&label=Profile%20views&color=00FFFF&style=flat-square" alt="brunowl-dev's profile views" />
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunowl-dev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## 👨‍💻 Sobre mim/About me 
-### 🇧🇷
-Olá! Me chamo Bruno e tenho 21 anos, atualmente estou cursando o terceiro semestre de análise e desenvolvimento de sistemas pela FATEC, na minha cidade Santos!
-
-Sou apaixonado por tecnologia desde que mexi em um computador aos 9 anos, já mostrando que essa seria minha área profissional. Além de tecnologia, gosto muito de jogos e de música, principalmente rap, mas sou bem eclético, gosto de samba, rock, pagode, etc.
-
-Atualmente estou estudando Python pelo curso da DIO, porém estudei lógica de programação com a linguagem C na faculdade.
-
-### 🇬🇧🇺🇸
-Hi! My name is Bruno, I'm 21 years old and an IT student in the third semester of college, in my hometown, Santos!
-
-I've fallen in love with technology since I first touched a computer when I was nine. Besides technology and computer-related stuff, I really enjoy playing games, and I'm very into music, mainly rap, but I like other genres such as samba, rock, pagode and others.
-
-I'm currently learning Python through a DIO course; furthermore, I learnt how to code mainly in C language due to my college.
-###
-## 🖥️ Tecnologias / Technologies
-[![My Skills](https://skillicons.dev/icons?i=git,c,vscode,python,java)](https://skillicons.dev)
-
-## 📖✍️ Atualmente estudando / Currently learning
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
-## 🌐 Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-wai-lu-981443277/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunowl-dev)
+## 📌 About Me
+* 🎓 Systems Analysis and Development student at Fatec Baixada Santista
+* 🌱 Currently focused on Frontend and Web Development
+* 💻 Building skills in Java, Python, HTML, CSS and JavaScript
+* 🧠 Interested in Full Stack Development and Software Engineering
+* 🎯 Seeking my first internship opportunity in Software Development
+* 🧩 I enjoy solving algorithms and programming problems
+* 🎮 When I'm not coding: gaming and listening to rap
 
 
+## 🧠 My Focus Areas
+- Full Stack Development
 
 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/brunowl-dev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brunowl-dev&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="brunowl-dev's GitHub Stats" />
+  </a>
+</p>
 
 
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/brunowl-dev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brunowl-dev&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/brunowailu">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="mailto:brunoantoniowl@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
 
