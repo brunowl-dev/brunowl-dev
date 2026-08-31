@@ -7,18 +7,18 @@
 </p>
 
 ## 📌 About Me
-* 🎓 Systems Analysis and Development student at Fatec Baixada Santista
-* 🌱 Currently focused on Frontend and Web Development
-* 💻 Building skills in Java, Python, HTML, CSS and JavaScript
-* 🧠 Interested in Full Stack Development and Software Engineering
-* 🎯 Seeking my first internship opportunity in Software Development
-* 🧩 I enjoy solving algorithms and programming problems
-* 🎮 When I'm not coding: gaming and listening to rap
+I'm a **Systems Analysis and Development student at Fatec Baixada Santista**, Brazil 🇧🇷, currently in the **5th of 6 semesters**, with an average grade of **8.90/10**.
 
+My passion for technology started when I got my first computer at the age of **nine**. Like any kid, I wanted to play games, but the laptop wasn't powerful enough. That led me to explore **hardware, software, troubleshooting, and how computers worked**, and eventually became the beginning of my passion for technology.
+
+When I was 15, while playing Rainbow Six Siege, I had the opportunity to meet one of the developers involved in the creation of **PIX**, Brazil's instant payment system. He was and still is one of my main inspirations.
+
+Today, I'm focused on **Frontend and Web Development**, while building my skills in **Java, Python, SQL, HTML, CSS, and JavaScript**. I'm particularly interested in **Full Stack Development and Software Engineering**, and I'm currently looking for my **first internship opportunity in Software Development**.
+
+I really enjoy solving **algorithms and programming problems**, especially when they feel like puzzles that require logical thinking and creativity. When I'm not coding, I'm probably **playing games, listening to rap, or spending time with my girlfriend**. 🎮🎵❤️
 
 ## 🧠 My Focus Areas
 - Full Stack Development
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
